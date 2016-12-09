@@ -1,618 +1,538 @@
-0.06393398
-0.330693
-0.2433906
-0.13007258
-.72 ea
-1.50 ea
-1.17 ea
-0.1322772
-0.153882476
-0.330031614
-0.16093726
-0.3196699
-0.10141252
-8.99 ea
-0.551155
-2.99 ea
-0.7165015
-0.6062705
-0.220462
-0.110231
-0.264113476
-2.9947626
-0.2539728
-1.3615764
-1.53110859
-0.73413846
-0.440925
-0.1322772
-0.25132668
-0.633387326
-0.65918138
-0.98987438
-0.65918138
-1.98195338
-1.51898318
-1.54102938
-1.4991416
-74.6615598101
-0.3668496
-0.512133226
 Potatoes, white, flesh and skin, raw
-69
-1.68
-0.10
-15.71
-2.4
-1.15
-0.009
-0.00052
-0.407
-0.016
-0.0091
-0
-0.0
-
+69 g Energy
+1.68 g Protein
+0.10 g Total lipid (fat)
+15.71 g Carbohydrate, by difference
+2.4 g Fiber, total dietary
+1.15 g Sugars, total
+0.009 g Calcium, Ca
+0.00052 g Iron, Fe
+0.407 g Potassium, K
+0.016 g Sodium, Na
+0.0091 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.0 g Cholesterol
 Tomatoes, red, ripe, raw, year round average
-18
-0.88
-0.20
-3.89
-1.2
-2.63
-0.01
-0.00027
-0.237
-0.005
-0.0137
-42
-0.0
-
+18 g Energy
+0.88 g Protein
+0.20 g Total lipid (fat)
+3.89 g Carbohydrate, by difference
+1.2 g Fiber, total dietary
+2.63 g Sugars, total
+0.01 g Calcium, Ca
+0.00027 g Iron, Fe
+0.237 g Potassium, K
+0.005 g Sodium, Na
+0.0137 g Vitamin C, total ascorbic acid
+42 g Vitamin A, RAE
+0.0 g Cholesterol
 NATURALLY SWEET YELLOW SWEET CORN, UPC: 028800292616
-94
-2.35
-0.00
-20.00
-2.4
-1.18
-0.0
-0.00042
-0.012
-0.0042
-0.0
-
+94 g Energy
+2.35 g Protein
+0.00 g Total lipid (fat)
+20.00 g Carbohydrate, by difference
+2.4 g Fiber, total dietary
+1.18 g Sugars, total
+0.0 g Calcium, Ca
+0.00042 g Iron, Fe
+0.012 g Sodium, Na
+0.0042 g Vitamin C, total ascorbic acid
+0.0 g Cholesterol
 Onions, raw
-40
-1.10
-0.10
-9.34
-1.7
-4.24
-0.023
-0.00021
-0.146
-0.004
-0.0074
-0
-0.0
-
+40 g Energy
+1.10 g Protein
+0.10 g Total lipid (fat)
+9.34 g Carbohydrate, by difference
+1.7 g Fiber, total dietary
+4.24 g Sugars, total
+0.023 g Calcium, Ca
+0.00021 g Iron, Fe
+0.146 g Potassium, K
+0.004 g Sodium, Na
+0.0074 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.0 g Cholesterol
 Lettuce, cos or romaine, raw
-17
-1.23
-0.30
-3.29
-2.1
-1.19
-0.033
-0.00097
-0.247
-0.008
-0.004
-436
-0.0
-
+17 g Energy
+1.23 g Protein
+0.30 g Total lipid (fat)
+3.29 g Carbohydrate, by difference
+2.1 g Fiber, total dietary
+1.19 g Sugars, total
+0.033 g Calcium, Ca
+0.00097 g Iron, Fe
+0.247 g Potassium, K
+0.008 g Sodium, Na
+0.004 g Vitamin C, total ascorbic acid
+436 g Vitamin A, RAE
+0.0 g Cholesterol
 Cucumber, with peel, raw
-15
-0.65
-0.11
-3.63
-0.5
-1.67
-0.016
-0.00028
-0.147
-0.002
-0.0028
-5
-0.0
-
+15 g Energy
+0.65 g Protein
+0.11 g Total lipid (fat)
+3.63 g Carbohydrate, by difference
+0.5 g Fiber, total dietary
+1.67 g Sugars, total
+0.016 g Calcium, Ca
+0.00028 g Iron, Fe
+0.147 g Potassium, K
+0.002 g Sodium, Na
+0.0028 g Vitamin C, total ascorbic acid
+5 g Vitamin A, RAE
+0.0 g Cholesterol
 Peppers, sweet, green, raw
-20
-0.86
-0.17
-4.64
-1.7
-2.40
-0.01
-0.00034
-0.175
-0.003
-0.0804
-18
-0.0
-
+20 g Energy
+0.86 g Protein
+0.17 g Total lipid (fat)
+4.64 g Carbohydrate, by difference
+1.7 g Fiber, total dietary
+2.40 g Sugars, total
+0.01 g Calcium, Ca
+0.00034 g Iron, Fe
+0.175 g Potassium, K
+0.003 g Sodium, Na
+0.0804 g Vitamin C, total ascorbic acid
+18 g Vitamin A, RAE
+0.0 g Cholesterol
 Carrots, raw
-41
-0.93
-0.24
-9.58
-2.8
-4.74
-0.033
-0.0003
-0.32
-0.069
-0.0059
-835
-0.0
-
+41 g Energy
+0.93 g Protein
+0.24 g Total lipid (fat)
+9.58 g Carbohydrate, by difference
+2.8 g Fiber, total dietary
+4.74 g Sugars, total
+0.033 g Calcium, Ca
+0.0003 g Iron, Fe
+0.32 g Potassium, K
+0.069 g Sodium, Na
+0.0059 g Vitamin C, total ascorbic acid
+835 g Vitamin A, RAE
+0.0 g Cholesterol
 Cabbage, raw
-25
-1.28
-0.10
-5.80
-2.5
-3.20
-0.04
-0.00047
-0.17
-0.018
-0.0366
-5
-0.0
-
+25 g Energy
+1.28 g Protein
+0.10 g Total lipid (fat)
+5.80 g Carbohydrate, by difference
+2.5 g Fiber, total dietary
+3.20 g Sugars, total
+0.04 g Calcium, Ca
+0.00047 g Iron, Fe
+0.17 g Potassium, K
+0.018 g Sodium, Na
+0.0366 g Vitamin C, total ascorbic acid
+5 g Vitamin A, RAE
+0.0 g Cholesterol
 Broccoli, raw
-34
-2.82
-0.37
-6.64
-2.6
-1.70
-0.047
-0.00073
-0.316
-0.033
-0.0892
-31
-0.0
-
+34 g Energy
+2.82 g Protein
+0.37 g Total lipid (fat)
+6.64 g Carbohydrate, by difference
+2.6 g Fiber, total dietary
+1.70 g Sugars, total
+0.047 g Calcium, Ca
+0.00073 g Iron, Fe
+0.316 g Potassium, K
+0.033 g Sodium, Na
+0.0892 g Vitamin C, total ascorbic acid
+31 g Vitamin A, RAE
+0.0 g Cholesterol
 Oranges, raw, navels
-49
-0.91
-0.15
-12.54
-2.2
-8.50
-0.043
-0.00013
-0.166
-0.001
-0.0591
-12
-0.0
-
+49 g Energy
+0.91 g Protein
+0.15 g Total lipid (fat)
+12.54 g Carbohydrate, by difference
+2.2 g Fiber, total dietary
+8.50 g Sugars, total
+0.043 g Calcium, Ca
+0.00013 g Iron, Fe
+0.166 g Potassium, K
+0.001 g Sodium, Na
+0.0591 g Vitamin C, total ascorbic acid
+12 g Vitamin A, RAE
+0.0 g Cholesterol
 Apples, raw, with skin
-52
-0.26
-0.17
-13.81
-2.4
-10.39
-0.006
-0.00012
-0.107
-0.001
-0.0046
-3
-0.0
-
+52 g Energy
+0.26 g Protein
+0.17 g Total lipid (fat)
+13.81 g Carbohydrate, by difference
+2.4 g Fiber, total dietary
+10.39 g Sugars, total
+0.006 g Calcium, Ca
+0.00012 g Iron, Fe
+0.107 g Potassium, K
+0.001 g Sodium, Na
+0.0046 g Vitamin C, total ascorbic acid
+3 g Vitamin A, RAE
+0.0 g Cholesterol
 Bananas, raw
-89
-1.09
-0.33
-22.84
-2.6
-12.23
-0.005
-0.00026
-0.358
-0.001
-0.0087
-3
-0.0
-
+89 g Energy
+1.09 g Protein
+0.33 g Total lipid (fat)
+22.84 g Carbohydrate, by difference
+2.6 g Fiber, total dietary
+12.23 g Sugars, total
+0.005 g Calcium, Ca
+0.00026 g Iron, Fe
+0.358 g Potassium, K
+0.001 g Sodium, Na
+0.0087 g Vitamin C, total ascorbic acid
+3 g Vitamin A, RAE
+0.0 g Cholesterol
 Watermelon, raw
-30
-0.61
-0.15
-7.55
-0.4
-6.20
-0.007
-0.00024
-0.112
-0.001
-0.0081
-28
-0.0
-
+30 g Energy
+0.61 g Protein
+0.15 g Total lipid (fat)
+7.55 g Carbohydrate, by difference
+0.4 g Fiber, total dietary
+6.20 g Sugars, total
+0.007 g Calcium, Ca
+0.00024 g Iron, Fe
+0.112 g Potassium, K
+0.001 g Sodium, Na
+0.0081 g Vitamin C, total ascorbic acid
+28 g Vitamin A, RAE
+0.0 g Cholesterol
 Grapes, red or green (European type, such as Thompson seedless), raw
-69
-0.72
-0.16
-18.10
-0.9
-15.48
-0.01
-0.00036
-0.191
-0.002
-0.0032
-3
-0.0
-
+69 g Energy
+0.72 g Protein
+0.16 g Total lipid (fat)
+18.10 g Carbohydrate, by difference
+0.9 g Fiber, total dietary
+15.48 g Sugars, total
+0.01 g Calcium, Ca
+0.00036 g Iron, Fe
+0.191 g Potassium, K
+0.002 g Sodium, Na
+0.0032 g Vitamin C, total ascorbic acid
+3 g Vitamin A, RAE
+0.0 g Cholesterol
 Pineapple, raw, all varieties
-50
-0.54
-0.12
-13.12
-1.4
-9.85
-0.013
-0.00029
-0.109
-0.001
-0.0478
-3
-0.0
-
+50 g Energy
+0.54 g Protein
+0.12 g Total lipid (fat)
+13.12 g Carbohydrate, by difference
+1.4 g Fiber, total dietary
+9.85 g Sugars, total
+0.013 g Calcium, Ca
+0.00029 g Iron, Fe
+0.109 g Potassium, K
+0.001 g Sodium, Na
+0.0478 g Vitamin C, total ascorbic acid
+3 g Vitamin A, RAE
+0.0 g Cholesterol
 Strawberries, raw
-32
-0.67
-0.30
-7.68
-2.0
-4.89
-0.016
-0.00041
-0.153
-0.001
-0.0588
-1
-0.0
-
+32 g Energy
+0.67 g Protein
+0.30 g Total lipid (fat)
+7.68 g Carbohydrate, by difference
+2.0 g Fiber, total dietary
+4.89 g Sugars, total
+0.016 g Calcium, Ca
+0.00041 g Iron, Fe
+0.153 g Potassium, K
+0.001 g Sodium, Na
+0.0588 g Vitamin C, total ascorbic acid
+1 g Vitamin A, RAE
+0.0 g Cholesterol
 Peaches, yellow, raw
-39
-0.91
-0.25
-9.54
-1.5
-8.39
-0.006
-0.00025
-0.19
-0.0
-0.0066
-16
-0.0
-
+39 g Energy
+0.91 g Protein
+0.25 g Total lipid (fat)
+9.54 g Carbohydrate, by difference
+1.5 g Fiber, total dietary
+8.39 g Sugars, total
+0.006 g Calcium, Ca
+0.00025 g Iron, Fe
+0.19 g Potassium, K
+0.0 g Sodium, Na
+0.0066 g Vitamin C, total ascorbic acid
+16 g Vitamin A, RAE
+0.0 g Cholesterol
 Grapefruit, raw, white, California
-37
-0.88
-0.10
-9.09
-0.012
-8e-05
-0.143
-0.0
-0.0333
-0
-0.0
-
+37 g Energy
+0.88 g Protein
+0.10 g Total lipid (fat)
+9.09 g Carbohydrate, by difference
+0.012 g Calcium, Ca
+8e-05 g Iron, Fe
+0.143 g Potassium, K
+0.0 g Sodium, Na
+0.0333 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.0 g Cholesterol
 Beans, pinto, mature seeds, raw
-347
-21.42
-1.23
-62.55
-15.5
-2.11
-0.113
-0.00507
-1.393
-0.012
-0.0063
-0
-0.0
-
+347 g Energy
+21.42 g Protein
+1.23 g Total lipid (fat)
+62.55 g Carbohydrate, by difference
+15.5 g Fiber, total dietary
+2.11 g Sugars, total
+0.113 g Calcium, Ca
+0.00507 g Iron, Fe
+1.393 g Potassium, K
+0.012 g Sodium, Na
+0.0063 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.0 g Cholesterol
 Peas, green, raw
-81
-5.42
-0.40
-14.45
-5.7
-5.67
-0.025
-0.00147
-0.244
-0.005
-0.04
-38
-0.0
-
+81 g Energy
+5.42 g Protein
+0.40 g Total lipid (fat)
+14.45 g Carbohydrate, by difference
+5.7 g Fiber, total dietary
+5.67 g Sugars, total
+0.025 g Calcium, Ca
+0.00147 g Iron, Fe
+0.244 g Potassium, K
+0.005 g Sodium, Na
+0.04 g Vitamin C, total ascorbic acid
+38 g Vitamin A, RAE
+0.0 g Cholesterol
 Beans, black, mature seeds, raw
-341
-21.60
-1.42
-62.36
-15.5
-2.12
-0.123
-0.00502
-1.483
-0.005
-0.0
-0
-0.0
-
+341 g Energy
+21.60 g Protein
+1.42 g Total lipid (fat)
+62.36 g Carbohydrate, by difference
+15.5 g Fiber, total dietary
+2.12 g Sugars, total
+0.123 g Calcium, Ca
+0.00502 g Iron, Fe
+1.483 g Potassium, K
+0.005 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.0 g Cholesterol
 Peanuts, spanish, raw
-570
-26.15
-49.60
-15.83
-9.5
-0.106
-0.00391
-0.744
-0.022
-0.0
-0
-0.0
-
+570 g Energy
+26.15 g Protein
+49.60 g Total lipid (fat)
+15.83 g Carbohydrate, by difference
+9.5 g Fiber, total dietary
+0.106 g Calcium, Ca
+0.00391 g Iron, Fe
+0.744 g Potassium, K
+0.022 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.0 g Cholesterol
 ORGANIC RAW ALMONDS, UPC: 071725711830
-600
-26.67
-46.67
-20.00
-10.0
-3.33
-0.267
-0.0036
-0.0
-0.0
-0.0
-
+600 g Energy
+26.67 g Protein
+46.67 g Total lipid (fat)
+20.00 g Carbohydrate, by difference
+10.0 g Fiber, total dietary
+3.33 g Sugars, total
+0.267 g Calcium, Ca
+0.0036 g Iron, Fe
+0.0 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0.0 g Cholesterol
 MEIJER, RAW PECANS, UPC: 886926197853
-700
-10.00
-73.33
-13.33
-10.0
-3.33
-0.067
-0.0024
-0.0
-0.0
-0.0
-
+700 g Energy
+10.00 g Protein
+73.33 g Total lipid (fat)
+13.33 g Carbohydrate, by difference
+10.0 g Fiber, total dietary
+3.33 g Sugars, total
+0.067 g Calcium, Ca
+0.0024 g Iron, Fe
+0.0 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0.0 g Cholesterol
 MEIJER, TRUE GOODNESS, RAW WALNUTS HALVES & PIECES, UPC: 713733444682
-647
-14.71
-64.71
-14.71
-5.9
-2.94
-0.118
-0.00318
-0.0
-0.0
-0.0
-
+647 g Energy
+14.71 g Protein
+64.71 g Total lipid (fat)
+14.71 g Carbohydrate, by difference
+5.9 g Fiber, total dietary
+2.94 g Sugars, total
+0.118 g Calcium, Ca
+0.00318 g Iron, Fe
+0.0 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0.0 g Cholesterol
 STONE HOUSE BREAD, SLICED WHITE BREAD, UPC: 602813410016
-235
-8.82
-0.00
-52.94
-2.9
-2.94
-0.0
-0.0
-0.588
-0.0
-0.0
-
+235 g Energy
+8.82 g Protein
+0.00 g Total lipid (fat)
+52.94 g Carbohydrate, by difference
+2.9 g Fiber, total dietary
+2.94 g Sugars, total
+0.0 g Calcium, Ca
+0.0 g Iron, Fe
+0.588 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0.0 g Cholesterol
 RICE SELECT, JASMATI, BROWN RICE, WHOLE GRAIN BROWN JASMINE RICE, UPC: 074401304302
-378
-8.89
-2.22
-77.78
-4.4
-0.0
-
+378 g Energy
+8.89 g Protein
+2.22 g Total lipid (fat)
+77.78 g Carbohydrate, by difference
+4.4 g Fiber, total dietary
+0.0 g Sodium, Na
 Pasta, dry, enriched
-371
-13.04
-1.51
-74.67
-3.2
-2.67
-0.021
-0.0033
-0.223
-0.006
-0.0
-0
-0.0
-
+371 g Energy
+13.04 g Protein
+1.51 g Total lipid (fat)
+74.67 g Carbohydrate, by difference
+3.2 g Fiber, total dietary
+2.67 g Sugars, total
+0.021 g Calcium, Ca
+0.0033 g Iron, Fe
+0.223 g Potassium, K
+0.006 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.0 g Cholesterol
 Quinoa, cooked
-120
-4.40
-1.92
-21.30
-2.8
-0.87
-0.017
-0.00149
-0.172
-0.007
-0.0
-0
-0.0
-
+120 g Energy
+4.40 g Protein
+1.92 g Total lipid (fat)
+21.30 g Carbohydrate, by difference
+2.8 g Fiber, total dietary
+0.87 g Sugars, total
+0.017 g Calcium, Ca
+0.00149 g Iron, Fe
+0.172 g Potassium, K
+0.007 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.0 g Cholesterol
 Chicken, roasting, light meat, meat only, cooked, roasted
-153
-27.13
-4.07
-0.00
-0.0
-0.00
-0.013
-0.00108
-0.236
-0.051
-0.0
-8
-0.075
-
+153 g Energy
+27.13 g Protein
+4.07 g Total lipid (fat)
+0.00 g Carbohydrate, by difference
+0.0 g Fiber, total dietary
+0.00 g Sugars, total
+0.013 g Calcium, Ca
+0.00108 g Iron, Fe
+0.236 g Potassium, K
+0.051 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+8 g Vitamin A, RAE
+0.075 g Cholesterol
 Beef, ground, patties, frozen, cooked, broiled
-295
-23.05
-21.83
-0.00
-0.0
-0.00
-0.011
-0.00242
-0.305
-0.077
-0.0
-0
-0.084
-
+295 g Energy
+23.05 g Protein
+21.83 g Total lipid (fat)
+0.00 g Carbohydrate, by difference
+0.0 g Fiber, total dietary
+0.00 g Sugars, total
+0.011 g Calcium, Ca
+0.00242 g Iron, Fe
+0.305 g Potassium, K
+0.077 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.084 g Cholesterol
 Pork, cured, salt pork, raw
-748
-5.05
-80.50
-0.00
-0.0
-0.00
-0.006
-0.00044
-0.066
-2.684
-0.0
-0
-0.086
-
+748 g Energy
+5.05 g Protein
+80.50 g Total lipid (fat)
+0.00 g Carbohydrate, by difference
+0.0 g Fiber, total dietary
+0.00 g Sugars, total
+0.006 g Calcium, Ca
+0.00044 g Iron, Fe
+0.066 g Potassium, K
+2.684 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.086 g Cholesterol
 Fish, salmon, Atlantic, wild, raw
-142
-19.84
-6.34
-0.00
-0.0
-0.012
-0.0008
-0.49
-0.044
-0.0
-12
-0.055
-
+142 g Energy
+19.84 g Protein
+6.34 g Total lipid (fat)
+0.00 g Carbohydrate, by difference
+0.0 g Fiber, total dietary
+0.012 g Calcium, Ca
+0.0008 g Iron, Fe
+0.49 g Potassium, K
+0.044 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+12 g Vitamin A, RAE
+0.055 g Cholesterol
 Turkey, mechanically deboned, from turkey frames, raw
-201
-13.29
-15.96
-0.00
-0.0
-0.145
-0.00161
-0.173
-0.048
-0.0
-0
-0.095
-
+201 g Energy
+13.29 g Protein
+15.96 g Total lipid (fat)
+0.00 g Carbohydrate, by difference
+0.0 g Fiber, total dietary
+0.145 g Calcium, Ca
+0.00161 g Iron, Fe
+0.173 g Potassium, K
+0.048 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.095 g Cholesterol
 Lamb, New Zealand, imported, ground lamb, cooked, braised
-192
-22.60
-11.34
-0.00
-0.0
-0.00
-0.004
-0.00127
-0.162
-0.034
-0.0
-8
-0.071
-
+192 g Energy
+22.60 g Protein
+11.34 g Total lipid (fat)
+0.00 g Carbohydrate, by difference
+0.0 g Fiber, total dietary
+0.00 g Sugars, total
+0.004 g Calcium, Ca
+0.00127 g Iron, Fe
+0.162 g Potassium, K
+0.034 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+8 g Vitamin A, RAE
+0.071 g Cholesterol
 Veal, ground, raw
-197
-18.58
-13.06
-0.00
-0.0
-0.00
-0.012
-0.00137
-0.198
-0.103
-0.0
-0
-0.049
-
+197 g Energy
+18.58 g Protein
+13.06 g Total lipid (fat)
+0.00 g Carbohydrate, by difference
+0.0 g Fiber, total dietary
+0.00 g Sugars, total
+0.012 g Calcium, Ca
+0.00137 g Iron, Fe
+0.198 g Potassium, K
+0.103 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.049 g Cholesterol
 Milk, nonfat, fluid, with added nonfat milk solids, vitamin A and vitamin D (fat free or skim)
-37
-3.57
-0.25
-5.02
-0.0
-5.02
-0.129
-5e-05
-0.171
-0.053
-0.001
-64
-0.002
-
+37 g Energy
+3.57 g Protein
+0.25 g Total lipid (fat)
+5.02 g Carbohydrate, by difference
+0.0 g Fiber, total dietary
+5.02 g Sugars, total
+0.129 g Calcium, Ca
+5e-05 g Iron, Fe
+0.171 g Potassium, K
+0.053 g Sodium, Na
+0.001 g Vitamin C, total ascorbic acid
+64 g Vitamin A, RAE
+0.002 g Cholesterol
 Peanut butter, smooth style, with salt
-598
-22.21
-51.36
-22.31
-5.0
-10.49
-0.049
-0.00174
-0.558
-0.426
-0.0
-0
-0.0
-
+598 g Energy
+22.21 g Protein
+51.36 g Total lipid (fat)
+22.31 g Carbohydrate, by difference
+5.0 g Fiber, total dietary
+10.49 g Sugars, total
+0.049 g Calcium, Ca
+0.00174 g Iron, Fe
+0.558 g Potassium, K
+0.426 g Sodium, Na
+0.0 g Vitamin C, total ascorbic acid
+0 g Vitamin A, RAE
+0.0 g Cholesterol
 Margarine-like, margarine-butter blend, soybean oil and butter
-727
-0.31
-80.32
-0.77
-0.0
-0.00
-0.01
-4e-05
-0.022
-0.719
-0.0001
-819
-0.012
-
+727 g Energy
+0.31 g Protein
+80.32 g Total lipid (fat)
+0.77 g Carbohydrate, by difference
+0.0 g Fiber, total dietary
+0.00 g Sugars, total
+0.01 g Calcium, Ca
+4e-05 g Iron, Fe
+0.022 g Potassium, K
+0.719 g Sodium, Na
+0.0001 g Vitamin C, total ascorbic acid
+819 g Vitamin A, RAE
+0.012 g Cholesterol

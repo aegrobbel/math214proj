@@ -12,7 +12,7 @@ for line in lines:
 		line = float(line.replace(' oz', '')) * 3.5274
 	elif (line.find("Gallon") != -1):
 		line = float(line.replace(' Gallon', '')) / 0.0227024456
-	print(line)
+	# print(line)
 
 # selected food codes
 ndbnos = ["11354", "11529", "45056237", "11282", "11251", "11205", "11333", "11124", "11109", "11090", "09202", "09003", "09040", "09326", "09132", "09266", "09316", "09236", "09117", "16042", "11304", "16014", "16091", "45047656", "45035423", "45087177", "45108433", "45017350", "20120", "20137", "05118", "13317", "10165", "15076", "05304", "17370", "17142", "01086", "16098", "04585"]
@@ -40,6 +40,6 @@ for ndbno in ndbnos:
 					elif (unit[0] == '\xc2'):
 						value = float(value) / 1000000000
 
-					# print(str(value) + " g " + name)
+					print(str(value) + " g " + name)
 					# print(str(value))
 		# print('')
